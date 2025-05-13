@@ -1,160 +1,160 @@
 [[DAQP]]
 arch = "aarch64"
-git-tree-sha1 = "93d4a14092966f8487bcd600016a6bc725d7c9e1"
+git-tree-sha1 = "dca874d0f8e76f6d5531208b20f1d565e46d1b4a"
 os = "macos"
 
     [[DAQP.download]]
-    sha256 = "c180d6916b2a752451a27f7f4356e5c574bec3248b10cc43f87718aca29f9f3e"
-    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.0+0/DAQP.v0.7.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "8451ca528fa3f91afdba02a1c612207aeb01471b1b7d840e2860d20307a89380"
+    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.1+0/DAQP.v0.7.1.aarch64-apple-darwin.tar.gz"
 [[DAQP]]
 arch = "aarch64"
-git-tree-sha1 = "2db79bc6eb5ffceadf8e2052b7531c0802d2b1b6"
+git-tree-sha1 = "bb127575a291bb46aa75f2b2f6fbe1b924cfbfd7"
 libc = "glibc"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "961c774f1407e6ddc15d8a65e7db1efecad25037f00a06b50683626552b28064"
-    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.0+0/DAQP.v0.7.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "3a05699e713f7fbcc62fa74ec6b3ff966ed15c29aff4bb27ed3dbdfe36c39281"
+    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.1+0/DAQP.v0.7.1.aarch64-linux-gnu.tar.gz"
 [[DAQP]]
 arch = "aarch64"
-git-tree-sha1 = "d4b1e7e0272364bcc875251d280ca8c47d98400a"
+git-tree-sha1 = "9609942cb927088f7061fde9f11b3c80784cff76"
 libc = "musl"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "3c7bc11cb3da298010c9c1493737d8bb22323d42abd352cd905d44e781a49963"
-    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.0+0/DAQP.v0.7.0.aarch64-linux-musl.tar.gz"
+    sha256 = "a69be8f601a0318b570fee31f85f9ceaed27fa1bdb6a3b0bed961cd4498c891b"
+    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.1+0/DAQP.v0.7.1.aarch64-linux-musl.tar.gz"
 [[DAQP]]
 arch = "aarch64"
-git-tree-sha1 = "b288fb39092971f1541e821314d40e117d835512"
+git-tree-sha1 = "540d04903eb7865efbb3f6d51a0710f1972270c2"
 os = "freebsd"
 
     [[DAQP.download]]
-    sha256 = "918cc971504465982bfc449691d76fb04b2cfb4d625083700553278c716e077f"
-    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.0+0/DAQP.v0.7.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "9fd032de15983384add00edea4d8db35306ecbb9a60077dffd8c0e3649384e25"
+    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.1+0/DAQP.v0.7.1.aarch64-unknown-freebsd.tar.gz"
 [[DAQP]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "7f62a68b279c07b46e0ba123d9dc263630723687"
+git-tree-sha1 = "21418e6806b2e2b03c46efd2b36c8f5331dcb307"
 libc = "glibc"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "f68dd8b6c4251c4c579c2a037c20d78bcbc0e59a11c99924ebe1cb15a805b110"
-    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.0+0/DAQP.v0.7.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "0526bb4df828b7d93f37e029966755f6cd3fd15eeb9e564b866cfe8a468921d1"
+    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.1+0/DAQP.v0.7.1.armv6l-linux-gnueabihf.tar.gz"
 [[DAQP]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "aa0640f6a422cbb61715e95326a8d2a721fcf359"
+git-tree-sha1 = "b2236ddb226c915a6afd4d14ad0fe7f67e6de1af"
 libc = "musl"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "01a97e91ff89b933c17b0a53714b46c2c1e5e5dcecd2d1064d9ea013d86f7a27"
-    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.0+0/DAQP.v0.7.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "30687c54ac04b9cf3ba4a278869ca802881908e433a88253fa54b05720ff30b9"
+    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.1+0/DAQP.v0.7.1.armv6l-linux-musleabihf.tar.gz"
 [[DAQP]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "1a2e5816c3a9bf3f2e034e2ca63794c22424aafd"
+git-tree-sha1 = "9038666692d75f01d6be0df67183f08a8315f16e"
 libc = "glibc"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "ca2605eb9ebca7091bab1ab838265373cae58bc60bd1a85055027f32c87b711a"
-    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.0+0/DAQP.v0.7.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "910e730a2a75fb2609c55ea15f71e3cd837bbd25a735710fdf0a0cd32232b913"
+    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.1+0/DAQP.v0.7.1.armv7l-linux-gnueabihf.tar.gz"
 [[DAQP]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "5b35675e781f3e064d8db1995433febca773770b"
+git-tree-sha1 = "38eecdee0c888e03b7104c1a03c976650dab7a40"
 libc = "musl"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "adc042ea87b0b28af429245b1bbad96abfb1577bf4ebee451b54bf0422703c11"
-    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.0+0/DAQP.v0.7.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "c573ac5129b18598b834870196fbad8ab9a2a067868cda498cfbf9cb97b22fb9"
+    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.1+0/DAQP.v0.7.1.armv7l-linux-musleabihf.tar.gz"
 [[DAQP]]
 arch = "i686"
-git-tree-sha1 = "fd179059ecb1b607e5587be5d4e2e041622f4168"
+git-tree-sha1 = "aaf8ffdb5153dd7881f39aec00ee76c4f7da9c21"
 libc = "glibc"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "fd4e422b59a2bd336e36935ad2a2f28bfcf677d515740bd884ac6b8cf5d5025c"
-    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.0+0/DAQP.v0.7.0.i686-linux-gnu.tar.gz"
+    sha256 = "3d3d070cd286466e0b5c9148f2f05404d668d8e989cbc758ab8e590d843b0765"
+    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.1+0/DAQP.v0.7.1.i686-linux-gnu.tar.gz"
 [[DAQP]]
 arch = "i686"
-git-tree-sha1 = "6172a8de57addb023f922590caf5dfdcb4fcc5ea"
+git-tree-sha1 = "8510a7fa212993435dd1c9cb6bd95e183df3459e"
 libc = "musl"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "1dce650e3a87d58257333dae008c92359c0bad2e0ab246026109140666045f88"
-    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.0+0/DAQP.v0.7.0.i686-linux-musl.tar.gz"
+    sha256 = "2feeb6abb3a7d6332d6dc052a41eabc93f8d71132ce1252b3efcde2ea3c56cb3"
+    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.1+0/DAQP.v0.7.1.i686-linux-musl.tar.gz"
 [[DAQP]]
 arch = "i686"
-git-tree-sha1 = "d96ac1c0ff28e2f41c0c87814752f9011666ff19"
+git-tree-sha1 = "c3e3430904c3d145da9acd7fffe07bb50d851960"
 os = "windows"
 
     [[DAQP.download]]
-    sha256 = "f1fa6c8439af06bdc7246ac8dd0cf24e6ec06a9c61e4905e009e5812538b95f9"
-    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.0+0/DAQP.v0.7.0.i686-w64-mingw32.tar.gz"
+    sha256 = "a7d680325f0898be4f24c71c140c49ac287c94855fd1263cbe6b7650f963ce6a"
+    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.1+0/DAQP.v0.7.1.i686-w64-mingw32.tar.gz"
 [[DAQP]]
 arch = "powerpc64le"
-git-tree-sha1 = "ae830391f5c99da3025d0a4c7707589dcea44365"
+git-tree-sha1 = "870a6efedee8cbcf3e22094e203b1ce82f343f5e"
 libc = "glibc"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "0de13216119e7e3bcaa975b060553280f08083849210f126bcf32ae68c600650"
-    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.0+0/DAQP.v0.7.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "15a69b2f606f300f87be3c9cfc66b6cc92dd7fbf73c22747825ef8177de92903"
+    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.1+0/DAQP.v0.7.1.powerpc64le-linux-gnu.tar.gz"
 [[DAQP]]
 arch = "riscv64"
-git-tree-sha1 = "2b71bfff6452804364841a667bba89a274a56c4d"
+git-tree-sha1 = "2aad0239433724c2d8ddb0df2800010876794648"
 libc = "glibc"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "62924265506a106b955e921b981ca8194c80ac2eef21bcba3facd736291dbc05"
-    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.0+0/DAQP.v0.7.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "b758722eebc49474050b4e4c494afabac086dc19daab57adcfad582fec013313"
+    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.1+0/DAQP.v0.7.1.riscv64-linux-gnu.tar.gz"
 [[DAQP]]
 arch = "x86_64"
-git-tree-sha1 = "8cdf3dd12eccec295013fb2b72a32e0bf060e84a"
+git-tree-sha1 = "e8c2bfa6e8c1c2893e3b0e27b4c5a6cd87c24663"
 os = "macos"
 
     [[DAQP.download]]
-    sha256 = "35415139914db039919edc8e9fd3a0e71197f5ed9a83539e8cd35925d78e17fe"
-    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.0+0/DAQP.v0.7.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "57b03c3ea80d3b277a74dab79583d6b0e087af1d158b1a6a3d1f1aef836496bc"
+    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.1+0/DAQP.v0.7.1.x86_64-apple-darwin.tar.gz"
 [[DAQP]]
 arch = "x86_64"
-git-tree-sha1 = "906a740d678a3b5c0f262fee8c609e37912827cc"
+git-tree-sha1 = "28b80d151fa9f4e653065bce3908629d8a9e9136"
 libc = "glibc"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "a2a13a8291c42020d4b60cb3aca1a5032e7890be939eb5707ef4cac8821ad77a"
-    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.0+0/DAQP.v0.7.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "1737b976b1579006b7f00da46414c18e49ea397571656550afcc36f0a317fab6"
+    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.1+0/DAQP.v0.7.1.x86_64-linux-gnu.tar.gz"
 [[DAQP]]
 arch = "x86_64"
-git-tree-sha1 = "38859a4ad3548118dde3f9b257d1fadc70c3fd35"
+git-tree-sha1 = "435aa6d467783b0e757e4db5c645b1f76e861d1d"
 libc = "musl"
 os = "linux"
 
     [[DAQP.download]]
-    sha256 = "842d211edcf33262064ad196d8b9dd29421de534b036ec971f245c96b7155dab"
-    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.0+0/DAQP.v0.7.0.x86_64-linux-musl.tar.gz"
+    sha256 = "a09fc94fcf353289269d4d1962414b594190b814b28c3d6ebcab87b114f44068"
+    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.1+0/DAQP.v0.7.1.x86_64-linux-musl.tar.gz"
 [[DAQP]]
 arch = "x86_64"
-git-tree-sha1 = "c5c9aedd0e918722751b1930c125195774811fe2"
+git-tree-sha1 = "b4914a65dbf4544d7cfb354b6870d9d724e176fe"
 os = "freebsd"
 
     [[DAQP.download]]
-    sha256 = "01d489f123d83e612e4a13342c3f6e9ad7ff5fe72844d4d7ec4ec997389c2031"
-    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.0+0/DAQP.v0.7.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "25feee9afaac80ed776388f0de9a9af8e8395b2b397a6a2b1db714260e4ec10d"
+    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.1+0/DAQP.v0.7.1.x86_64-unknown-freebsd.tar.gz"
 [[DAQP]]
 arch = "x86_64"
-git-tree-sha1 = "a5aef36d4e8b2fb56127836c0e560f0ed69aaf6d"
+git-tree-sha1 = "321d1bb1251ba5d602d564900befbbf9ce015773"
 os = "windows"
 
     [[DAQP.download]]
-    sha256 = "54d24cb6e89374ca03a91945e7cb04f09706cff508115d0e718060c78c3e6a8c"
-    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.0+0/DAQP.v0.7.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "5e5e43251144c77e16893ab741007917c6f28b9ee06192d4a03c74e0fea126d6"
+    url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.7.1+0/DAQP.v0.7.1.x86_64-w64-mingw32.tar.gz"
