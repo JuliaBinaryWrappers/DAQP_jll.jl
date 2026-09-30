@@ -92,11 +92,11 @@ os = "linux"
     url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.10.2+0/DAQP.v0.10.2.i686-linux-musl.tar.gz"
 [[DAQP]]
 arch = "i686"
-git-tree-sha1 = "cd58098b67ea6e67952c25100f17a32c26bdf111"
+git-tree-sha1 = "29698942cde9cca95cd3a96ddf6d724ed25f08e7"
 os = "windows"
 
     [[DAQP.download]]
-    sha256 = "ca483e5bc3a2a397a68b8bdc6b1abf86e3094f3eadbfcf64e80aca9d09efafa5"
+    sha256 = "88348ef8ff1e0b1e407618363a26bba2f034ef59ad53f4da7941c0485216a34b"
     url = "https://github.com/JuliaBinaryWrappers/DAQP_jll.jl/releases/download/DAQP-v0.10.2+0/DAQP.v0.10.2.i686-w64-mingw32.tar.gz"
 [[DAQP]]
 arch = "powerpc64le"
