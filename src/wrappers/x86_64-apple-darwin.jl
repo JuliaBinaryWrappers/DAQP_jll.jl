@@ -7,7 +7,7 @@ function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libdaqp,
-        "lib/libdaqp.0.11.1.dylib",
+        "lib/libdaqp.0.11.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
